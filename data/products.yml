@@ -1,0 +1,85 @@
+products:
+    - 
+        title: 10 Year Fixed
+        points: 0
+        rate: 3.125%
+        index: 0.0000
+        apr: 3.341%
+        monthlypayment: $1,602.79
+    -
+        title: 15 Year Fixed
+        points: 0
+        rate: 3.250%
+        index: 0.0000
+        apr: 3.399%
+        monthlypayment: $1,159.40
+    -
+        title: 20 Year Fixed
+        points: 0
+        rate: 3.750%
+        index: 0.0000
+        apr: 3.926%
+        monthlypayment: $978.27
+    -
+        title: 30 Year Fixed
+        points: 0
+        rate: 4.000%
+        index: 0.0000
+        apr: 4.128%
+        monthlypayment: $787.74
+    -
+        title: 3/1 ARM
+        points:	0
+        rate: 3.250%
+        index: 0.0086
+        apr: 3.418%
+        monthlypayment: $718.09
+    -
+        title: 3/3 ARM
+        points: 0
+        rate: 3.250%
+        index: 0.0148
+        apr: 3.899%
+        monthlypayment: $718.09
+    -
+        title: 5/1 ARM
+        points: 0
+        rate: 3.500%
+        index: 0.0086
+        apr: 3.492%	
+        monthlypayment: $740.92
+    -    
+        title: 5/5 ARM
+        points: 0
+        rate: 3.500%
+        index: 0.0192
+        apr: 3.855%
+        monthlypayment: $740.92
+    -
+        title: 7/1 ARM
+        points: 0
+        rate: 3.875%
+        index: 0.0086
+        apr: 3.685%
+        monthlypayment: $775.89
+    -
+        title: 10/1 ARM
+        points: 0
+        rate: 3.875%
+        index: 0.0086
+        apr: 3.762%
+        monthlypayment: $775.89
+    -
+        title: FHA 30 Yr Fixed
+        points: 0
+        rate: 4.000%
+        index: 0.0000
+        apr: 4.815%
+        monthlypayment: $787.74
+    -
+        title: FHA 15 Yr Fixed
+        points: 0
+        rate: 3.625%
+        index: 0.0000
+        apr: 4.575%
+        monthlypayment: $1,189.71
