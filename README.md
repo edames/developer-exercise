@@ -2,7 +2,7 @@
 
 ## Objective
 
-Build a responsive site for mortgage products.
+Build a responsive site for mortgage products.  Be creative.
 
 ## System Requirements
 * Git
@@ -15,7 +15,7 @@ Build a responsive site for mortgage products.
 2. Using [Assemble](http://assemble.io/), you must complete the layout file, create a page and any necessary partials.
 3. The page will present the products for larger screen sizes and for lower screen sizes.  For example, products can orient horizontally as tiles and then vertically for smaller screens.
 4. A product should consist of a title, rate, APR and monthly payment.
-5. You should use bower or NPM to add dependencies to any frameworks.
+5. You should use bower or NPM to add dependencies to any frameworks.  Hint: use of CSS and JS from Bower with NPM package [Grunt-Bower-Task](https://www.npmjs.com/package/grunt-bower-task)
 6. Site should be presentable on IE 8+ and latest stable versions of Google Chome, FireFox and Safari
 7. Upon completion, submit finished work as a pull request.
 
@@ -39,4 +39,4 @@ Open `http://localhost:9000/` to view site.
 
 ## Bonus
 1. Incorporate a preprocessor with Grunt for styles instead of CSS file.  You may use SASS or LESS.
-2. Improve use of CSS and JS from Bower with NPM package [Grunt-Bower-Task](https://www.npmjs.com/package/grunt-bower-task)
+2. Use NPM and WebPack instead of Grunt and Bower
